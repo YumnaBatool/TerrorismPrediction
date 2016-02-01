@@ -13,22 +13,14 @@ Nowadays social media is creating a great impact. Any incident is witnessed on s
 
 5- The collected tweet data is uploaded [here.]: https://github.com/YumnaBatool/TerrorismPrediction/tree/master/API_Data
 
-6- 
+6- Sentiment Analysis of tweets is performed to define emotions for tweet words. Few examples of the emotion based wordcloud are present [at.]: https://github.com/YumnaBatool/TerrorismPrediction/tree/master/ComparisonCloud
 
-The level of Happiness, Sadness and Anger of each post will be 
-calculated
+7- The polarity of tweets is identified from the presence of "Negative" and "Positive" words in the tweets. Graphs showing Polarity of Tweets are present [at.]: https://github.com/YumnaBatool/TerrorismPrediction/tree/master/PolarityClassification
 
+8- The level of Happiness, Sadness, Anger and other emotions of each post is also calculated from sentiment analysis. Examples can be seen [at.]: https://github.com/YumnaBatool/TerrorismPrediction/tree/master/EmotionClassification
 
+9- For an occured Terrorism activity (e.g. Paris Attacks) tweets will be gathered before the event date (e.g. 13th November,2015) from the specific location (e.g. Paris). Their anger level will be identified and anger level which causes that terrorist activity is noted. This level will be used as the threshold level causing Terrorism.
 
-Country wise threshold of Happiness, Sadness and Anger of twitter 
-posts will be calculated
+10- Same analysis will be performed at real-time tweets of various cities to be monitered. City having anger level more the recorded threshold will have high probability of having a terrorist activity.
 
-
-
-Country wise No of anti-Islamic posts will be calculated
-
-Based on the thresholds and numbers it can be analyzed that which 
-country has the highest probability of a terrorist attack
-
-This study is very practical and can be verified by getting tweets 
-before the Paris attack
+Note: This study is very practical and can be verified by getting tweets before the Paris attack. Being a free user I was unable to get enough tweets before Paris Attacks. So, I collected Tweets from various famous cities.
