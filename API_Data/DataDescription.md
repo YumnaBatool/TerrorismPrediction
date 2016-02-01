@@ -1,6 +1,6 @@
 ## Data Description ##
 
-This data is collected through Twitter API. I have collected this data using the REST twitter API. Being a free user I was able to fetch few tweets only as Twitter does not allow fetching all real-time tweets.
+This data is collected through Twitter API. I have collected this data using the REST twitter API. Being a free user I was able to fetch few tweets only as Twitter does not allow fetching all real-time tweets. For building a real-time application API subscription would result in a larger tweet collection at real-time.
 
 # Search Query Specifications #
 Tweets are fetched based on some specifcations to tweets containing specific words for a geographical area.
