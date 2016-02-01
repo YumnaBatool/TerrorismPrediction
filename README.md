@@ -11,13 +11,13 @@ Nowadays social media is creating a great impact. Any incident is witnessed on s
 
 4- Each query fetches dictionary matching tweets from the specified Geographical area.
 
-5- The collected tweet data is uploaded [here.]: https://github.com/YumnaBatool/TerrorismPrediction/tree/master/API_Data
+5- The collected tweet data is uploaded [here](https://github.com/YumnaBatool/TerrorismPrediction/tree/master/API_Data).
 
-6- Sentiment Analysis of tweets is performed to define emotions for tweet words. Few examples of the emotion based wordcloud are present [at.]: https://github.com/YumnaBatool/TerrorismPrediction/tree/master/ComparisonCloud
+6- Sentiment Analysis of tweets is performed to define emotions for tweet words. Few examples of the emotion based wordcloud are present [at](https://github.com/YumnaBatool/TerrorismPrediction/tree/master/ComparisonCloud).
 
-7- The polarity of tweets is identified from the presence of "Negative" and "Positive" words in the tweets. Graphs showing Polarity of Tweets are present [at.]: https://github.com/YumnaBatool/TerrorismPrediction/tree/master/PolarityClassification
+7- The polarity of tweets is identified from the presence of "Negative" and "Positive" words in the tweets. Graphs showing Polarity of Tweets are present [at](https://github.com/YumnaBatool/TerrorismPrediction/tree/master/PolarityClassification).
 
-8- The level of Happiness, Sadness, Anger and other emotions of each post is also calculated from sentiment analysis. Examples can be seen [at.]: https://github.com/YumnaBatool/TerrorismPrediction/tree/master/EmotionClassification
+8- The level of Happiness, Sadness, Anger and other emotions of each post is also calculated from sentiment analysis. Examples can be seen [at](https://github.com/YumnaBatool/TerrorismPrediction/tree/master/EmotionClassification).
 
 9- For an occured Terrorism activity (e.g. Paris Attacks) tweets will be gathered before the event date (e.g. 13th November,2015) from the specific location (e.g. Paris). Their anger level will be identified and anger level which causes that terrorist activity is noted. This level will be used as the threshold level causing Terrorism.
 
