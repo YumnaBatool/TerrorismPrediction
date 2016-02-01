@@ -2,6 +2,10 @@
 
 Nowadays social media is creating a great impact. Any incident is witnessed on social media before recording organizations, even the weather changes are noticed on social media before any weather forecasting agency measured them.
 
+It was noticed that before the weather forecasts could detect Hurricane, a tweet was present on twitter telling the occurance of Hurricane. Keeping this reality in mind, I invented a way of using Twitter in predicting the biggest problem of this era i.e. TERRORISM.
+
+If twitter can predict an storm than it must be able to give information related to an event which is based on Human emotions. Terrorism is a result of an Human's emotional thoughts. So I have developed an algorithm to measure the "Negative emotions' level" from tweets of a particular area which will be used to predict the possibility of occuring a Terrorist activity in that area.
+
 ## ALGORITHMIC STEPS ##
 1- I made a dictionary of terrorism words. For each word I fetched the tweets containing those words for specified Geographical locations.
 
